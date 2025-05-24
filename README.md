@@ -1,14 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Devin! | Software Engineer | Web Developer </h1>
 
-<!--
-**DevinCastillo5/DevinCastillo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Full Stack Mobile + Web Apps <i>(Flutter (Flutterflow), Dart, Firebase)</b></i>
+  - [Momentum Fitness App](https://github.com/DevinCastillo5/Momentum)
+  - [To Do App](https://github.com/DevinCastillo5/TodoApp-FlutterFlow)
+- <b>Python</b>
+  - [Wordle Clone](https://github.com/DevinCastillo5/Wordle-Clone)
+  
 
-- 🔭 I attend URI
-- 🌱 I major in Computer Science
-- 🤔 I’m looking for help with: Learning Python
-- 💬 Ask me about: Something football related
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a video editor
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DevinCastillo | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/devin-castillo/
