@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin! | Software Engineer | Web Developer </h1>
+<h1>Hi, I'm Devin! | Aspiring Software Engineer & Web Developer </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
