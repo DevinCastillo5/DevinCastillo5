@@ -6,6 +6,8 @@
   - [Momentum Fitness App](https://github.com/DevinCastillo5/Momentum)
   - [To Do App](https://github.com/DevinCastillo5/TodoApp-FlutterFlow)
 - <b>Python</b>
+  - [Library App](https://github.com/DevinCastillo5/Library-App) *(In Progress)*
+    - Full Stack App using SQL, Python, and HTML
   - [Wordle Clone](https://github.com/DevinCastillo5/Wordle-Clone)
 - <b>Flutter</b>
   - [Calculator Flutter Program](https://github.com/DevinCastillo5/flutter-calculator)
